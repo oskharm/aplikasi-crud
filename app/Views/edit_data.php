@@ -14,7 +14,7 @@
 
 <body>
    <div class="container">
-      <form class="form-signin card card-primary" action="/user/save/updateData" method="POST">
+      <form class="form-signin card card-primary" action="/user/updateData" method="POST">
    <div class=" text-center mb-4">
     		
     		<h1>Edit Data</h1>
